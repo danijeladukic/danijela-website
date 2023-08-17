@@ -1,0 +1,101 @@
+.homepage{
+    height: 800px;
+   
+    background: #DCCFE6;
+
+    display:flex;
+    flex-direction: column;
+   
+    justify-content:center;
+    position: relative;
+    font-family: 'Spicy Rice',cursive;
+    color: #FFF;
+text-shadow:0px 4px 4px #8946BD;
+z-index: -1;
+margin-top:-630px;
+margin-bottom: 0;
+
+    
+   
+}
+.title{
+    /* position: absolute;
+    left:184px;
+    top: 20px; */
+    align-self: center;
+  
+    display: flex;
+    flex-direction: column;
+  
+    width: 47vw;
+    height: 124.734px;
+    flex-shrink: 0;
+    font-size: 40px;
+    /* top:200px; */
+
+    
+}
+.hi{
+  
+font-family: Spicy Rice;
+
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 4px;
+
+}
+.name{
+    font-size: 80px;
+}
+.first-row{
+    display:flex;
+}
+.second-row{
+    align-self: flex-end;
+    margin-right: 100px;
+}
+
+/* responsive tablet */
+
+@media screen and (min-width: 768px){
+    .homepage{
+        margin-top: -100px;
+        height: 500px;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .name{
+        font-size: 45px;
+    }
+    .second-row{
+        margin-right: 20%;
+    }
+
+}
+
+/* responsive phone */
+
+@media screen and (max-width: 767px){
+    .homepage{
+        margin-top: -100px;
+        height: 400px;
+    }
+    .title{
+        font-size: 30px;
+      
+    }
+    .name{
+        font-size: 35px;
+    }
+    .first-row{
+        display: flex;
+        flex-direction: column;
+    }
+    .second-row{
+        margin-right: 20%;
+        align-self:unset;
+    }
+
+}

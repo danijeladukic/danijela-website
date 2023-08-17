@@ -1,0 +1,57 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    align-items: center;
+    gap: 10px;
+    height: fit-content;
+
+    background-color: white;
+    
+
+}
+
+img{
+    width: 60%;
+    height: auto;
+    transition: all 1s ease-in-out;
+   
+    
+}
+.cv{
+    border: 1px solid black;
+}
+.resume{
+    display: none;
+   
+
+}
+.resume button{
+    font-size: 22px;
+    font-family: 'Baloo 2', 'Sans-serif';
+    border: none;
+    background-color: transparent;
+}
+
+/* tablet responsive */
+@media screen and (min-width: 768px){
+    .scaled{
+        transform: scale(1.5);
+        z-index: 30;
+        transition: all 1s ease;
+    }
+    
+}
+/* phone responsive */
+@media screen and (max-width: 768px){
+    .resume{
+        display: block;
+    }
+    .about{
+        background-color: #DCCFE6;
+    }
+    .about img{
+        display: none;
+    }
+    
+}
