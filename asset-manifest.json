@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f50a06e.css",
-    "main.js": "/static/js/main.7a6f4977.js",
-    "static/js/787.7eaa9fe6.chunk.js": "/static/js/787.7eaa9fe6.chunk.js",
-    "static/media/Dripping.png": "/static/media/Dripping.b0451adee7a1d3d2eba8.png",
-    "static/media/cv.png": "/static/media/cv.becf958dc46c572d9c7a.png",
-    "static/media/cv.pdf": "/static/media/cv.e674181a19ba59e06c3a.pdf",
-    "index.html": "/index.html",
-    "main.4f50a06e.css.map": "/static/css/main.4f50a06e.css.map",
-    "main.7a6f4977.js.map": "/static/js/main.7a6f4977.js.map",
-    "787.7eaa9fe6.chunk.js.map": "/static/js/787.7eaa9fe6.chunk.js.map"
+    "main.css": "/danijela-website/static/css/main.4f50a06e.css",
+    "main.js": "/danijela-website/static/js/main.ceae506d.js",
+    "static/js/787.9e69a5db.chunk.js": "/danijela-website/static/js/787.9e69a5db.chunk.js",
+    "static/media/Dripping.png": "/danijela-website/static/media/Dripping.b0451adee7a1d3d2eba8.png",
+    "static/media/cv.png": "/danijela-website/static/media/cv.becf958dc46c572d9c7a.png",
+    "static/media/cv.pdf": "/danijela-website/static/media/cv.e674181a19ba59e06c3a.pdf",
+    "index.html": "/danijela-website/index.html",
+    "main.4f50a06e.css.map": "/danijela-website/static/css/main.4f50a06e.css.map",
+    "main.ceae506d.js.map": "/danijela-website/static/js/main.ceae506d.js.map",
+    "787.9e69a5db.chunk.js.map": "/danijela-website/static/js/787.9e69a5db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f50a06e.css",
-    "static/js/main.7a6f4977.js"
+    "static/js/main.ceae506d.js"
   ]
 }
