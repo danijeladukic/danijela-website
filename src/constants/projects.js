@@ -22,7 +22,7 @@ const projectsArray = [
         videoTitle:'ToDo App',
         videoDescription:'Vintage looking daily To Do List in single page form created with JavaScript. Displays random quote on refresh, shows current date and stores your chores in local storage.\n Allows adding new chore, crossing it, and dragging it inbetween days, as well as deleting it and sorting by completion.',
         technologies: 'HTML5 | CSS3 | JavaScript | React',
-        videoUrl:'../Videos/todoapp.webm',
+        videoUrl:'Videos/todoapp.webm',
         githubUrl:'https://github.com/danijeladukic/to-do-app',
     }          
 ]
