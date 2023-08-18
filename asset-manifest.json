@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/danijela-website/static/css/main.4f50a06e.css",
-    "main.js": "/danijela-website/static/js/main.01dbf5b5.js",
+    "main.js": "/danijela-website/static/js/main.da4d9707.js",
     "static/js/787.9e69a5db.chunk.js": "/danijela-website/static/js/787.9e69a5db.chunk.js",
     "static/media/Dripping.png": "/danijela-website/static/media/Dripping.b0451adee7a1d3d2eba8.png",
     "static/media/cv.png": "/danijela-website/static/media/cv.8602031f77d3dd44b396.png",
     "static/media/cv.pdf": "/danijela-website/static/media/cv.133a3f2a42cfb0ff0ce8.pdf",
     "index.html": "/danijela-website/index.html",
     "main.4f50a06e.css.map": "/danijela-website/static/css/main.4f50a06e.css.map",
-    "main.01dbf5b5.js.map": "/danijela-website/static/js/main.01dbf5b5.js.map",
+    "main.da4d9707.js.map": "/danijela-website/static/js/main.da4d9707.js.map",
     "787.9e69a5db.chunk.js.map": "/danijela-website/static/js/787.9e69a5db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f50a06e.css",
-    "static/js/main.01dbf5b5.js"
+    "static/js/main.da4d9707.js"
   ]
 }
